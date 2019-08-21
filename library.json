@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-pcf8575",
+  "title": "pcf8575",
+  "keywords": "pcf8575, esp32, esp8266, arduino",
+  "description": "Plugin pcf8575 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-pcf8575/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-pcf8575/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
